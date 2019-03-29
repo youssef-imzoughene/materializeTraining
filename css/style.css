@@ -1,0 +1,7 @@
+.row .col{
+    background-color: coral;
+    border: 5px solid white;
+    margin: auto;
+    height: 100px;
+    text-align: center;
+}
